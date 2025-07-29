@@ -102,7 +102,7 @@ select*
 from Nashvill
 
 
----- change Y and N in 'SOLD AS VACANT'-------
+---- change Y and N in 'SOLD AS VACANT'------
 
 Select Distinct(SoldAsVacant), Count(SoldAsVacant)
 From Nashvill
