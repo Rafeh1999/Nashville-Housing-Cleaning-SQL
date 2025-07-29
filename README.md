@@ -18,3 +18,4 @@ we split the OwnerAddress entries into different columns (Address, city, and Sta
 This query separates PropertyAddress into distinct Address, City, and State columns for easier analysis.
 Change Y and N to Yes and No in "Sold as Vacant" Field.
 It updates the "SoldAsVacant" field to replace 'Y' and 'N' with 'YES' and 'NO' for clarity.
+Help to clarify the "SoldAsVacant" field
